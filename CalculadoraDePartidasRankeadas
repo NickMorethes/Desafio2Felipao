@@ -1,5 +1,0 @@
-balance
-
-function balance(wins, losses, rank){
-console.log('wins=${270};losses=${110};rank=${(rank)}')
-}
