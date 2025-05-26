@@ -11,7 +11,7 @@ function balance(wins, losses, username){
             else if(calculator >=81 && calculator <= 90) { rank = "Diamante" }
             else if(calculator >=91 && calculator <= 100) { rank = "Lendario" }
             else if(calculator >=101) { rank = "Imortal" }
-            else {rank = "🐱‍🐉 erroR 404 not found 🐱‍🐉"};
+            else { rank = "🐱‍🐉 erroR 404 not found 🐱‍🐉" };
 
  
                 console.log(`O Herói ${username} tem o saldo de ${calculator} e está no nível ${(rank)}`);
