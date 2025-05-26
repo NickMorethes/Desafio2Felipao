@@ -4,7 +4,7 @@ function balance(wins, losses, username){
     let calculator = wins - losses;
         let rank;
     
-            if (calculator <= 10) { rank = "Ferro"; }
+            if (calculator <= 10) { rank = "Ferro" }
             else if(calculator >=11 && calculator <= 20) { rank = "Bronze" }
             else if(calculator >=21 && calculator <= 50) { rank = "Prata" }
             else if(calculator >=51 && calculator <= 80) { rank = "Ouro" }
