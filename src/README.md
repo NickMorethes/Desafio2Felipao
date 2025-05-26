@@ -1,4 +1,4 @@
-# # 🧮 Calculadora de Partidas Rankeadas
+## 🧮 Calculadora de Partidas Rankeadas
 
 Este projeto foi desenvolvido como parte da **Formação em Lógica de Programação** da DIO. O objetivo principal é consolidar conhecimentos sobre **variáveis, operadores, estruturas condicionais, laços de repetição e funções** através da construção de uma lógica simples, porém prática: calcular o nível de um jogador com base em suas vitórias e derrotas.
 
